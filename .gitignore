@@ -1,0 +1,5 @@
+tmp/
+coverage/
+!reports/.gitkeep
+reports/REPORT.html
+reports/report.json
